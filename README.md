@@ -124,6 +124,21 @@ plt.show()
 ```
 ## Output
 
+<img width="772" height="294" alt="image" src="https://github.com/user-attachments/assets/ff422c95-62ef-441d-97ea-0587855f7514" />
+
+<img width="893" height="522" alt="image" src="https://github.com/user-attachments/assets/eb9b27db-9de7-44d6-81e3-a55d52c0bd74" />
+
+<img width="604" height="31" alt="image" src="https://github.com/user-attachments/assets/c0acf6dc-ffd5-443e-b552-aa1c184015fd" />
+
+<img width="367" height="73" alt="image" src="https://github.com/user-attachments/assets/3a3163c0-5985-4cd3-9dd1-9631c2e8a2a4" />
+
+<img width="1132" height="509" alt="image" src="https://github.com/user-attachments/assets/36f568a3-2217-4c78-9ea0-df2bf55d5fda" />
+
+<img width="1576" height="257" alt="image" src="https://github.com/user-attachments/assets/659f87cf-58e9-4e49-9d3a-1ef3a313f003" />
+
+<img width="1073" height="530" alt="image" src="https://github.com/user-attachments/assets/00e013a6-fc17-45d3-b0b7-7dcfb646ed21" />
+
+
 
 ## Result
 The bivariate analysis shows a strong positive correlation between daily COVID-19 cases and deaths.
